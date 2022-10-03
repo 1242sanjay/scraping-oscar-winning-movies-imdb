@@ -1,7 +1,9 @@
 # scraping-oscar-winning-movies-imdb
 ### Scraping Oscar Winning Movies from IMDB using Python and Beautiful Soup
-[Web Scraping](https://www.zyte.com/learn/what-is-web-scraping/) is the process of extracting data from web in a automated way. Here we scrape IMDb for getting movies data.
 
+Checkout the Jupyter Notebook here : https://jovian.ai/1242sanjay/web-scrapping-project
+
+[Web Scraping](https://www.zyte.com/learn/what-is-web-scraping/) is the process of extracting data from web in a automated way. Here we scrape IMDb for getting movies data.
 
 [IMDb](https://imdb.com/) is the world's most popular and authoritative source for movie, TV, and celebrity information. Watch trailers, get showtimes, and buy tickets for upcoming films. Rate and review shows you've seen and track what you want to watch using your Watchlist. IMDb takes you behind the scenes with exclusive IMDb Originals, celebrity interviews, and more.
 
@@ -18,4 +20,5 @@ Here are the steps which we are going to follow:
 * Save the extracted information into a [CSV file](https://en.wikipedia.org/wiki/Comma-separated_values)
 
 By the end of the project we'll create a CSV file in the following format:
-![result csv](https://imgur.com/z7eR8ub)
+
+![result csv](https://imgur.com/a/Xr5s73L)
